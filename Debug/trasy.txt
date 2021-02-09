@@ -1,0 +1,7 @@
+Szczecin: 1.79769e+308
+Poznan: 1.79769e+308
+Koszalin: 1.79769e+308
+Bytom: 1.79769e+308
+Katowice: 1.79769e+308
+Lodz: 1.79769e+308
+Wroclaw: 1.79769e+308
